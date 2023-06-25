@@ -1,6 +1,6 @@
 type HangmanWordProps = {
   guessedLetters : string[],
-  wortToGuess: string
+  wordToGuess: string
   reveal?: boolean
 }
 
